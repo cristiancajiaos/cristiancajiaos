@@ -1,7 +1,19 @@
-Cristian Cajiao Skarnic
+# Cristian Cajiao Skarnic
 
-- 💻 Desarrollador web
-- 🔭 Actualmente trabajando con Angular 8+ y Java
+- 💻 Desarrollador Front End
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+- 🔭 Actualmente trabajando con Angular 20+
+  
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+
+- 🌱 Actualmente aprendiendo React
+  
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
 - 💬 Idiomas: English, Español
 - 📫 Contacto
-  - Correo: cristiancajiaos@outlook.com 
+  - Correo: cristiancajiaos@outlook.com
+  - Portafolio: https://cristiancajiaos.github.io
+  - LinkedIn: https://www.linkedin.com/in/cristiancajiaos/
