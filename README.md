@@ -8,10 +8,6 @@
   
 [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 
-- 🌱 Actualmente aprendiendo React
-  
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-
 - 💬 Idiomas: English, Español
 - 📫 Contacto
   - Correo: cristiancajiaos@outlook.com
