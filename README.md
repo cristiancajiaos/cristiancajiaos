@@ -1,12 +1,16 @@
 # Cristian Cajiao Skarnic
 
-- 💻 Desarrollador Front End
+- 💻 Desarrollador Frontend
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-- 🔭 Actualmente trabajando con Angular 20+
+- 🔭 Actualmente trabajando con Angular 22+
   
 [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+
+- Actualmente también aprendiendo React 19+
+
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 - 💬 Idiomas: English, Español
 - 📫 Contacto
